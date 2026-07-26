@@ -1,11 +1,11 @@
 CKEditor for WordPress
 ======================
 
-This plugin replaces the default WordPress editor with [CKEditor](http://ckeditor.com).
+This plugin replaces the default WordPress editor with [CKEditor](http://ckeditor.com). ckeditor version 4.22.1 ( last free / open ) 
 
 ## Maintenance status
 
-Anyone is welcome to contribute. Without your help the extension will not get any further updates.
+Anyone is welcome to contribute. 4.22.1 was the last free software version of CKeditor.  From now on just maintenance by those that use it internally.
 
 ## About extension
 
