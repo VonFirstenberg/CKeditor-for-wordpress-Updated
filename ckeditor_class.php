@@ -222,7 +222,7 @@ class ckeditor_wordpress {
 
 	public function user_personalopts_update() {
 		global $current_user;
-		update_user_option($current_user->id, 'rich_editing', 'false', true);
+		update_user_option($current_user->ID, 'rich_editing', 'false', true);
 	}
 
 	public function print_admin_styles() {
